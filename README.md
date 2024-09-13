@@ -11,10 +11,10 @@
 3. Exploratory Data Analysis
 4. Data Pre-processing
 5. Down-Sampling and Scaling
-6. Machine Learning model training
- [1] Logistic Regression (LR) 
- [2] Support Vector Machine Model (SVC) 
- [3] Gaussian Naive Bayes Model (GaussianNB) 
- [4] Decision Tree Model (IB3) 
- [5] Random Forest Classifier 
- [6] XGBoost Classifier (XGBClassifier)
+6. Machine Learning model training  
+ [1] Logistic Regression (LR)  
+ [2] Support Vector Machine Model (SVC)  
+ [3] Gaussian Naive Bayes Model (GaussianNB)  
+ [4] Decision Tree Model (IB3)  
+ [5] Random Forest Classifier  
+ [6] XGBoost Classifier (XGBClassifier) 
